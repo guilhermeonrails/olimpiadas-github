@@ -13,5 +13,10 @@ let dados = [
         titulo: "Rebeca Andrade",
         descricao: "Rebeca Andrade é uma ginasta brasileira que conquistou o mundo com suas acrobacias e força. Aos poucos anos, ela já coleciona títulos e é considerada uma das maiores ginastas da história do Brasil.",
         link: "https://pt.wikipedia.org/wiki/Rebeca_Andrade"
+    },
+    {
+        titulo: "Tatiana Weston-Webb",
+        descricao: "Tatiana Weston-Webb é uma surfista brasileira, reconhecida por seu desempenho nas ondas. Ela é uma das maiores representantes do surf brasileiro no cenário mundial.",
+        link: "https://pt.wikipedia.org/wiki/Tatiana_Weston-Webb"
     }
 ];
